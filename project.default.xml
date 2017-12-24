@@ -16,7 +16,7 @@
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="E:/apache-maven-3.3.9" />
+            <option name="mavenHome" value="D:/Develop/apache-maven-3.3.9" />
           </MavenGeneralSettings>
         </option>
       </component>
