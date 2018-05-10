@@ -22,6 +22,10 @@
           <option name="url" value="http://jcode.cbpmgt.com" />
           <option name="userName" value="chenlei51" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://source.jd.com/app/ebuy-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\Intellij" />
