@@ -5,6 +5,7 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="jscs" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="item1" type="ThymeleafExpressions" />
     </extensionMap>
   </component>
