@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="com.chen.splider.SpliderCore.doGet(url)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
